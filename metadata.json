@@ -1,0 +1,7 @@
+{
+  "name": "CareNest - Kumbakonam Community Care",
+  "description": "Kumbakonam Community Food Assistance & Elderly Care Platform. Find those who need food. Reach them faster.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
